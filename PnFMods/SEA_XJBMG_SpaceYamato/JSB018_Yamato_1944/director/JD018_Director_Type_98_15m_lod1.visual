@@ -1,1 +1,107 @@
-<JD018_Director_Type_98_15m_lod1.visual><boundingBox><min>-0.602776 -0.003215 -0.282412</min><max>0.602776 0.499223 0.242748</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Type9815m</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>JD013</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>JRS001_Grid</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>JRS001</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Type9815m</node><geometry><vertices>Type9815m_lod1Shape.vertices</vertices><primitive>Type9815m_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Director</identifier><mfm>PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/director/9b9be3c96f558e3011fced274e52e7ef.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>JD013</node><geometry><vertices>JD013_lod1Shape.vertices</vertices><primitive>JD013_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Misc</identifier><mfm>PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/director/81cfb95b51cad6e647be78f5369dd851.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>JRS001_Grid</node><geometry><vertices>JRS001_Grid_lod1Shape.vertices</vertices><primitive>JRS001_Grid_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Grid</identifier><mfm>PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/director/71d1dcc164d956be13f73038b0e577ac.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>JRS001</node><geometry><vertices>JRS001_lod1Shape.vertices</vertices><primitive>JRS001_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Misc1</identifier><mfm>PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/director/38af6c47348d90e03b12f4d6ae0c13f6.mfm</mfm></material></primitiveGroup></geometry></renderSet></JD018_Director_Type_98_15m_lod1.visual>
+<JD018_Director_Type_98_15m_lod1.visual>
+	<boundingBox>
+		<min>	-0.602776 -0.003215 -0.282412	</min>
+		<max>	0.602776 0.499223 0.242748	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Type9815m	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	JD013	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	JRS001_Grid	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	JRS001	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Type9815m	</node>
+		<geometry>
+			<vertices>	Type9815m_lod1Shape.vertices	</vertices>
+			<primitive>	Type9815m_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/director/JD018_Director_Type_98_15m_Yamato.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JD013	</node>
+		<geometry>
+			<vertices>	JD013_lod1Shape.vertices	</vertices>
+			<primitive>	JD013_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<mfm>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/director/JD013_Director_Type_98_Mod1.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JRS001_Grid	</node>
+		<geometry>
+			<vertices>	JRS001_Grid_lod1Shape.vertices	</vertices>
+			<primitive>	JRS001_Grid_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Grid	</identifier>
+					<mfm>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/director/C010_Grid_8.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JRS001	</node>
+		<geometry>
+			<vertices>	JRS001_lod1Shape.vertices	</vertices>
+			<primitive>	JRS001_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Misc1	</identifier>
+					<mfm>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/director/JRS002_Radar_Type_21_2.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JD018_Director_Type_98_15m_lod1.visual>

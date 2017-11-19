@@ -1,0 +1,20 @@
+<JSB018_Yamato_1944_deckhouse.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_deckhouse_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_deckhouse_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_deckhouse_ao.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_deckhouse_a.tga	</Texture>
+	</property>
+</JSB018_Yamato_1944_deckhouse.mfm>
