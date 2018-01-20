@@ -2,7 +2,7 @@
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.6	</exporter>
 	<parent>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/gun/JGA010_25mm_Type96_lod1	</parent>
-	<extent>	2.000000	</extent>
+	<extent>	2.0000	</extent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.071349 -0.000000 -0.049462	</min>

@@ -29,7 +29,7 @@
 			<primitive>	Turret_dead_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/gun/JGA004_25mm_Type96_Triple_1_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

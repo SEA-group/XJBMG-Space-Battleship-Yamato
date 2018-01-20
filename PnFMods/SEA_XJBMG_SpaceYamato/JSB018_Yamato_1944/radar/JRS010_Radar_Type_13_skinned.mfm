@@ -3,15 +3,15 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13_mg.tga	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13_mg.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13_n.tga	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13_n.dds	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13_a.tga	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13_a.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/radar/default_ao.tga	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/radar/default_ao.dds	</Texture>
 	</property>
 </JRS010_Radar_Type_13_skinned.mfm>
