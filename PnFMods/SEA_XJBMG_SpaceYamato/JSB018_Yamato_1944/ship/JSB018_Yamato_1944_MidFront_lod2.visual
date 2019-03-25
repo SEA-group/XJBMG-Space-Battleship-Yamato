@@ -96,6 +96,7 @@
 					<mfm>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_cones.mfm	</mfm>
 				</material>
 			</primitiveGroup>
+		</geometry>
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>

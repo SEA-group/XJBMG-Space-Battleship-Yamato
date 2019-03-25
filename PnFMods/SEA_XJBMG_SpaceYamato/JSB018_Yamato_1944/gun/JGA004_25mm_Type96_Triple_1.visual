@@ -74,7 +74,7 @@
 			<primitive>	TurretShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Gun	</identifier>
+					<identifier>	SHIPMAT_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_SpaceYamato/JSB018_Yamato_1944/gun/JGA004_25mm_Type96_Triple_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
