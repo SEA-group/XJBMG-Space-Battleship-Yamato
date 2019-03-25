@@ -100,42 +100,6 @@
 					</node>
 				</node>
 				<node>
-					<identifier>	MP_JM457_Gun_Deck	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 -0.037138 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-				<node>
-					<identifier>	MP_JM458_Insulator	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 -0.037138 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-				<node>
-					<identifier>	MP_JM460_Insulator	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 -0.037138 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-				<node>
-					<identifier>	MP_JM467_Ladder	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 -0.037138 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-				<node>
 					<identifier>	Rotate_Y_BlendBone	</identifier>
 					<transform>
 						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
