@@ -15,3 +15,6 @@ Presented by SEA group
 ## Credits
 * Yamato MMD model: [yam_2nd](http://www.nicovideo.jp/watch/sm28028407)
 * Type 100 scout plane: [---](http://3d.nicovideo.jp/works/td10978)
+
+## Preview
+![Space-Yamato](https://raw.githubusercontent.com/SEA-group/XJBMG-Space-Battleship-Yamato/master/Affiche_WG.jpg)
